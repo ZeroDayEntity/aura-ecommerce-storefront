@@ -2,10 +2,6 @@
 
 An ultra-premium e-commerce experience for a fictional luxury brand, built with Next.js for maximum performance and a professional, scalable architecture. The platform features a minimalist, sophisticated UI and is enhanced with an integrated AI Shopping Assistant to provide a true concierge-level service.
 
-## 📸 Screenshots
-![Aura Homepage Screenshot]
-
-![Aura AI Assistant Screenshot]
 
 ## ✨ Key Features
 High-Performance Architecture: Built with Next.js for fast page loads (SSR & SSG), optimal performance, and excellent SEO.
