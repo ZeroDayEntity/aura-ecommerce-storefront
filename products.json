@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Aura Leather Wallet",
+      "price": 75,
+      "description": "A minimalist wallet crafted from premium full-grain leather, designed to last a lifetime.",
+      "imageUrl": "https://images.unsplash.com/photo-1619454018022-9a3a6a42a986?q=80&w=1974&auto=format&fit=crop"
+    },
+    {
+      "id": "2",
+      "name": "Aura Desk Mat",
+      "price": 55,
+      "description": "A sleek and durable desk mat made from vegan leather and natural wool felt.",
+      "imageUrl": "https://images.unsplash.com/photo-1622599522339-5af494ce1672?q=80&w=1964&auto=format&fit=crop"
+    },
+    {
+      "id": "3",
+      "name": "Aura Mechanical Keyboard",
+      "price": 180,
+      "description": "A 75% layout mechanical keyboard with a solid aluminum case and hot-swappable switches.",
+      "imageUrl": "https://images.unsplash.com/photo-1618384887924-36113b063852?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": "4",
+      "name": "Aura Ceramic Mug",
+      "price": 30,
+      "description": "A beautifully crafted ceramic mug with a minimalist design, perfect for your morning coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1608679904949-bac8614dee59?q=80&w=1974&auto=format&fit=crop"
+    }
+  ]
