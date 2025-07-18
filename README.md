@@ -19,14 +19,22 @@ Elegant & Responsive UI: A clean, minimalist design crafted with Tailwind CSS an
 Full E-commerce Flow: Includes product gallery pages, detailed product pages, and a simulated multi-step checkout process.
 
 ## 🛠️ Tech Stack
-Technology	Description
+### Technology	Description
+
 Next.js	The core application framework (App Router).
+
 React	The main library for building the UI.
+
 TypeScript	For robust, scalable, and type-safe code.
+
 Tailwind CSS	For the custom, luxury design system.
+
 Zustand	For global state management (shopping cart).
+
 Framer Motion	For fluid, professional animations and transitions.
+
 Gemini API	To power the intelligent shopping assistant.
+
 
 ## 🚀 Getting Started
 To run this project locally, follow the steps below.
